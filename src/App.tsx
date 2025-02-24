@@ -26,7 +26,7 @@ const App: React.FC = () => {
         <div
           className="absolute inset-0 z-0"
           style={{
-            backgroundImage: "url('nav22.png')",
+            backgroundImage: "url('https://media-hosting.imagekit.io//41663c5c9451432e/nav22.png?Expires=1834987340&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vXhi8QBBIROOfE~U741eLWJ4xkOMZrgEsz~m~2aNKeDuVdA8aQDphW98en76kdf5VY-PZDD7fUzS72O3FvkWptGvMgw~1JjKehXaSQB-MBLlL5G9z6gnOGKFqaXbVPMeEn~t9pkUVfiat-vxytrUgqD3vCmPq0g06sLle~IlXBORH-GkcmQjAJh~l27XQOueu5bWUajbe6p85Pqjmk8Xq8xPsGl~5UwMWUKXTG7MV79rbSTzjtWsLCzUq-WwfQyWrUFLfuvvzbpjTIEYf6CRL3WvDDs1vmmfTwewuuAVhG-UWyA6wjrZlZou~7ivpM0~3y-d5lkS42HZrQkmRPYDLg__')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
@@ -104,7 +104,7 @@ const App: React.FC = () => {
               </div>
               <div className="hidden lg:block">
                 <img
-                  src="nav333-removebg-preview.png"
+                  src="https://media-hosting.imagekit.io//cd4790cdf8774bf9/nav333-removebg-preview.png?Expires=1834987440&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OhwZkaudPdi7shLhGWDmebYQa6cLjqJzKxZhjKP3EQwXZVLj1qy4PgD9NxtoYrN3VCxQJVGEhMU3xcLls1w9Mnzrvv6pqZMk9Lh87S8kviwnB74sJ-UR38PmX59U0mF0dWALDEQ~EHoGwTTs0XYQCJo9b7TJdoof6ddTFFXHsUUoHZi1ZLliQqlI3NVhSmDpyxMdTG4UBo57dh2937BOGitCmKyU6KrgBpOVTikGOeAo7mTHIxU~N7Y-LNHqi24X6mr1PjPgC1SrOJUWs17WuraKiJacBpyKKvJEJB7vMRHyqAx0sCvTVm2x4zPGIevKbnoL3O7Az61ZoyjR3S0fvA__"
                   alt="Hero"
                   className="rounded-2xl shadow-lg transform hover:scale-105 transition-transform duration-300"
                 />
